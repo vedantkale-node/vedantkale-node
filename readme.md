@@ -57,8 +57,6 @@ Database design & performance
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vedantkale-node&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=donut-vertical)<br/>
 ![](https://komarev.com/ghpvc/?username=supersaiyangodSS&style=for-the-badge)
 
-[![Codewars Badge](https://www.codewars.com/users/vedantSSJ/badges/large)](https://www.codewars.com/users/vedantSSJ)
-
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=supersaiyangodss&theme=apprentice)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=supersaiyangodss&theme=apprentice)
 

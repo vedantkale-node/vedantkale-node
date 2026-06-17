@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vedant Kale</h1>
-<h3 align="center">A full stack developer</h3>
+<h3 align="center">Backend Developer</h3>
 <div align="center">
   <a href="https://vedantjs.netlify.app" target="_blank">vedantjs.netlify.app</a><br/>
   <a href="mailto:vedantsapalkar99@gmail.com" target="_blank">vedantsapalkar99@gmail.com</a><br>

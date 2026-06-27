@@ -55,6 +55,5 @@ Database design & performance
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=vedantkale-node)]()<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vedantkale-node&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=donut-vertical)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vedantkale-node&theme=apprentice)
 
 </div>

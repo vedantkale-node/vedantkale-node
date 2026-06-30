@@ -1,59 +1,120 @@
-<h1 align="center">Hi 👋, I'm Vedant Kale</h1>
-<h3 align="center">Backend Developer</h3>
 <div align="center">
-  <a href="https://vedantjs.netlify.app" target="_blank">vedantjs.netlify.app</a><br/>
-  <a href="mailto:vedantsapalkar99@gmail.com" target="_blank">vedantsapalkar99@gmail.com</a><br>
-  <p>I build scalable backend systems using Node.js, Express</p>
 
-Focused on<br>
-REST API design<br>
-Authentication & authorization<br>
-Clean architecture<br>
-Database design & performance
+# Vedant Kale
+
+### Backend Developer — Node.js · TypeScript · Express
+
+I build scalable backend systems, not just endpoints — focused on clean architecture, secure authentication, and well-designed data layers.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-vedantkale.in-0A66C2?style=for-the-badge&logo=netlify&logoColor=white)](https://vedantkale.in)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-vedant--kale--dev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vedant-kale-dev/)
+[![Dev.to](https://img.shields.io/badge/Dev.to-vedant8177-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/vedant8177)
+[![Email](https://img.shields.io/badge/Email-vedantsapalkar99%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vedantsapalkar99@gmail.com)
 
 </div>
 
-### Frontend:
+---
 
-<div style="display:flex flex-wrap:wrap">
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/HTML/html1.svg" />
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/CSS/css1.svg" />
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Javascript/javascript3.svg" />
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TailwindCSS/tailwindcss1.svg" />
-</div>
+## About
 
-### Backend and Database:
+build backend applications with Node.js and TypeScript, focusing on maintainable architecture over quick fixes. I enjoy designing clear service layers, solving architectural problems, improving validation flows, and turning debugging sessions into practical lessons I can share through technical writing.
 
-<div style="display:flex flex-wrap:wrap">
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/NodeJS/nodejs1.svg" />
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Express/express1.svg" />
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/TypeScript/typescript1.svg" />
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MongoDB/mongodb1.svg" />
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/MySQL/mysql1.svg" />
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/PostgreSQL/postgresql1.svg" />
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Jest/jest1.svg" />
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/JWT/jwt1.svg" />
-</div>
+---
 
-### Tools:
+## Tech Stack
 
-<div style="display:flex flex-wrap:wrap">
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/VisualStudioCode/visualstudiocode1.svg" />
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Git/git1.svg" />
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Postman/postman1.svg" />
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Webstorm/webstorm1.svg" />
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Netlify/netlify1.svg" />
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Notion/notion1.svg" />
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Figma/figma1.svg" />
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/Prettier/prettier1.svg" />
-<img src="https://ziadoua.github.io/m3-Markdown-Badges/badges/npm/npm1.svg" />
-</div>
+**Languages & Frameworks**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Databases**
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+
+**Auth & Testing**
+
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
+
+**Frontend**
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
+**Tools**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![WebStorm](https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=webstorm&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+
+---
+
+## Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### [temple-ops-api](https://github.com/vedantkale-node/temple-ops-api)
+Full-stack temple management system with REST APIs, authentication, an admin dashboard, audit logging, and a modular backend architecture.
+
+`Node.js` · `Express` · `TypeScript` · `MongoDB`
+
+</td>
+<td width="50%" valign="top">
+
+### [FlameForge-API](https://github.com/vedantkale-node/FlameForge-API)
+Production-ready Genshin Impact REST API with a dashboard, authentication, role-based access control, Cloudinary uploads, and content management for characters, weapons, and artifacts.
+
+`Node.js` · `Express` · `REST API`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### [blog-api](https://github.com/vedantkale-node/blog-api)
+Blog API with role-based authentication and authorization, supporting post creation, updates, deletion, and comments.
+
+`Node.js` · `Express` · `TypeScript` · `MongoDB`
+
+</td>
+<td width="50%" valign="top">
+
+### [FlameForge-Scraper](https://github.com/vedantkale-node/FlameForge-Scraper)
+Open-source web scraper built to fetch and organize data for the FlameForge API.
+
+`JavaScript` · `Web Scraping`
+
+</td>
+</tr>
+</table>
+
+---
 
 ## GitHub Stats
 
-<div style="text-align:center; display:flex; flex-direction:column; justify-content:center; align-items:center;">
+<div align="center">
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=vedantkale-node)]()<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=vedantkale-node&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=donut-vertical)
+
+<img src="https://streak-stats.demolab.com/?user=vedantkale-node&theme=dark&hide_border=true" alt="GitHub Streak"/>
+
+</div>
+
+---
+
+<div align="center">
+
+**Let's connect** — [vedantkale.in](https://vedantkale.in) · [LinkedIn](https://www.linkedin.com/in/vedant-kale-dev/) · [Dev.to](https://dev.to/vedant8177)
 
 </div>

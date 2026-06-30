@@ -4,7 +4,7 @@
 
 ### Backend Developer — Node.js · TypeScript · Express
 
-I build scalable backend systems, not just endpoints — focused on clean architecture, secure authentication, and well-designed data layers.
+focused on clean architecture, secure authentication, and well-designed data layers.
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-vedantkale.in-0A66C2?style=for-the-badge&logo=netlify&logoColor=white)](https://vedantkale.in)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-vedant--kale--dev-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vedant-kale-dev/)
@@ -17,7 +17,7 @@ I build scalable backend systems, not just endpoints — focused on clean archit
 
 ## About
 
-build backend applications with Node.js and TypeScript, focusing on maintainable architecture over quick fixes. I enjoy designing clear service layers, solving architectural problems, improving validation flows, and turning debugging sessions into practical lessons I can share through technical writing.
+I build backend applications with Node.js and TypeScript, focusing on maintainable architecture over quick fixes. I enjoy designing clear service layers, solving architectural problems, improving validation flows, and turning debugging sessions into practical lessons I can share through technical writing.
 
 ---
 

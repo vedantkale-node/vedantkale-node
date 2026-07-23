@@ -1,5 +1,6 @@
 <div align="center">
 <img src="https://i.postimg.cc/t4Q04YrS/cover-1.png">
+
 # Vedant Kale
 
 ### Backend Developer — Node.js · TypeScript · Express

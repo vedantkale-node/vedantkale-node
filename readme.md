@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i.postimg.cc/3wLYN34P/cover-1.png">
+<img src="https://i.postimg.cc/mDFJ44QQ/aizen.png">
 
 # Vedant Kale
 
